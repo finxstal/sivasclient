@@ -13,6 +13,11 @@
   "auth": {
     "lexusAuthIP": null
   },
+  "versionControl": {
+    "windows": {
+      "checksum": "47a68d842c1d5268156f3153d4b2b074d2981ebe"
+    }
+  },
   "downloads": {
     "launcher": {
       "url": "https://launcher.lexusmc.com.tr/launcher/ff14d33c03a37185dc762a723a96238c38a95a02.jar",
